@@ -1,8 +1,19 @@
-# React + Vite
+# NASA Image Fetcher
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React application that fetches and displays images, titles, and descriptions from the NASA API.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Fetches images from the NASA API.
+- Displays image titles and descriptions.
+- Responsive and user-friendly interface.
+
+## Installation
+
+To get started with the project, follow these steps:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your-username/nasa-image-fetcher.git
+   cd nasa-image-fetcher
