@@ -15,5 +15,5 @@ To get started with the project, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/nasa-image-fetcher.git
-   cd nasa-image-fetcher
+   git clone https://github.com/badboi-s/Nasa-apod-project
+   cd Nasa-apod-project
