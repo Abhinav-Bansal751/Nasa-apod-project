@@ -10,7 +10,7 @@ A simple React application that fetches and displays images, titles, and descrip
 
 ## Installation
 
-To get started with the project, follow these steps:
+To get started with the project, follow these steps:-
 
 1. **Clone the repository:**
 
